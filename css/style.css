@@ -10,6 +10,9 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
+
+/* ---- Navbar ---- */
+
 .container {
     max-width: 1600px;
     margin: auto;
@@ -34,4 +37,23 @@ body {
 .nav-links {
     list-style-type: none;
     margin: 10px;
+}
+
+
+/* ---- Home ---- */
+
+.banner {
+    width: 100%;
+}
+
+.produtos-texto {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1600px;
+    margin: 25px auto;
+}
+
+.produtos-container {
+    border-bottom: 1px solid #A5A1A1;
 }
