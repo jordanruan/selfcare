@@ -69,8 +69,9 @@ body {
     grid-gap: 150px;
 }
 
-.card-img {
+img {
     width: 100%;
+    object-fit: cover;
 }
 
 .card-img img {
