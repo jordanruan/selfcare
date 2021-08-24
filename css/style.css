@@ -14,7 +14,7 @@ body {
 /* ---- Navbar ---- */
 
 .container {
-    max-width: 1600px;
+    max-width: 1300px;
     margin: auto;
     padding: 40px;
 }
@@ -50,10 +50,30 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    max-width: 1600px;
+    max-width: 1200px;
     margin: 25px auto;
 }
 
 .produtos-container {
     border-bottom: 1px solid #A5A1A1;
+}
+
+
+/* ---- CARDS ---- */
+
+.allcards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    justify-content: center;
+    justify-items: center;
+    grid-gap: 150px;
+}
+
+.card-img {
+    width: 100%;
+}
+
+.card-img img {
+    width: 300px;
+    height: 300px;
 }
