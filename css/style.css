@@ -70,7 +70,6 @@ body {
 }
 
 img {
-    width: 100%;
     object-fit: cover;
 }
 
@@ -168,4 +167,33 @@ a:hover {
 .btn:hover {
     background-color: #707070;
     transition: 2s;
+}
+
+.contatos {
+    border-top: 1px solid #ededed;
+    border-bottom: 1px solid #ededed;
+}
+
+.footer {}
+
+.icons-group {
+    max-width: 1200px;
+    margin: 25px auto;
+}
+
+.insta-icon {
+    width: 30px;
+}
+
+.fb-icon {
+    width: 60px;
+}
+
+.icons-group ul li {
+    list-style-type: none;
+}
+
+.icons-group ul {
+    display: flex;
+    align-items: center;
 }
