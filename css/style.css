@@ -122,3 +122,50 @@ span {
 a:hover {
     color: #5CA720;
 }
+
+.letter-form label {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.newletter-input {
+    margin: 7px;
+}
+
+.newletter-input input {
+    float: left;
+    width: 355px;
+    height: 50px;
+    border-radius: 5px 0px 0px 5px;
+    border-color: #ededed;
+    border-style: solid;
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+    border-width: 1px 0px 1px 1px;
+    padding: 5px;
+    outline: 0;
+}
+
+.newletter-input .btn {
+    background-color: #5CA720;
+    width: 115px;
+    height: 50px;
+    color: #ffffff;
+    cursor: pointer;
+    border-style: solid;
+    border: #ededed;
+    font-family: 'Lato', sans-serif;
+    border-radius: 0px 5px 5px 0px;
+    font-size: 1rem;
+    font-weight: bold;
+    border-width: 1px 1px 1px 0px;
+}
+
+.newletter-input ::placeholder {
+    color: #A5A1A1;
+}
+
+.btn:hover {
+    background-color: #707070;
+    transition: 2s;
+}
