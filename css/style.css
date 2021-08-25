@@ -181,19 +181,18 @@ a:hover {
     margin: 25px auto;
 }
 
-.insta-icon {
-    width: 30px;
-}
-
-.fb-icon {
-    width: 60px;
-}
-
 .icons-group ul li {
     list-style-type: none;
+    margin-right: 15px;
 }
 
 .icons-group ul {
     display: flex;
+    align-items: center;
+}
+
+.icons-group {
+    display: flex;
+    justify-content: space-between;
     align-items: center;
 }
