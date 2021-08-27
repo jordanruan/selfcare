@@ -1,5 +1,5 @@
 <h1 align="center">Self Care 💼</h1>
-<h3 align="center">Landing page de vendas de produtos para cuidados com a pele.</h3>
+<h3 align="center">Landing page de vendas de produtos para autocuidados.</h3>
 
 <p align="center"><a href="https://jordanruan.github.io/selfcare/" >Finalizado 🚀</a><p>
 
