@@ -3,7 +3,7 @@
 
 <p align="center"><a href="https://jordanruan.github.io/selfcare/" >Finalizado 🚀</a><p>
 
-![banner](https://github.com/jordanruan/selfcare/blob/main/design/mockup-desktop-selfcare.png?raw=true)
+![banner](hhttps://github.com/jordanruan/selfcare/blob/main/design/mockup-desktop-selfcare.png?raw=true)
 
 ---
 
