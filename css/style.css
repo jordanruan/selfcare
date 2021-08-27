@@ -74,8 +74,13 @@ body {
     margin: auto;
 }
 
+.card-img {
+    width: 100%;
+}
+
 .card-img img {
     object-fit: cover;
+    width: 100%
 }
 
 .card-img img {
